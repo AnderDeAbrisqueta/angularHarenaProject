@@ -1,0 +1,53 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: inherit;
+}
+
+@font-face {
+  font-family: "SourceSansPro-Regular";
+  src: url("/assets/fonts/SourceSansPro-Regular.ttf");
+}
+
+.body__video {
+  margin: 12px;
+  padding-top: 60px;
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+}
+
+.body__video--title {
+  font-size: "SourceSansPro-Regular";
+  text-align: center;
+  padding-top: 24px;
+}
+
+.body__container {
+  width: 100%;
+  height: 400px;
+  background-color: #f7f7f7;
+}
+
+.body__container--message {
+  width: 100%;
+  height: 360px;
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  margin-top: 24px;
+}
+
+#message--container {
+  padding-top: 12px;
+  width: 320px;
+  height: 200px;
+  background-color: #ed5001;
+}
+
+#message {
+  padding: 12px;
+  text-align: center;
+  color: white;
+  font-size: 12px;
+}
