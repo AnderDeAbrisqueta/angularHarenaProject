@@ -20,6 +20,17 @@
   justify-content: space-around;
 }
 
+.footer__socialMedia {
+  display: flex;
+  justify-content: space-around;
+}
+
+.footer__info--socialMedia{
+  padding: 12px;
+  width: 20px;
+  height: 20px;
+}
+
 .footer__info--logo {
   width: 80px;
   height: 36px;
