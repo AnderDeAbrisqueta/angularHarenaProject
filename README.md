@@ -22,6 +22,16 @@ Esta landing se ha creado a partir de mobile first, resposive y con la metodolog
 
 Los cores utilizados fueron: #ED5001, #F7F7F7 y 1A1A1A.
 
+## Elementos varios:
+
+Se ha colocado un audio en la parte superior izquierda del body.
+
+```
+<audio controls >
+    <source src="assets/sound/R2.mp3" type="audio/mpeg">
+</audio>
+```
+
 
 
 
