@@ -10,7 +10,9 @@ El mock up fue realizado en figma:
 
 # Landing page
 
-La landing se ha realizado con el framework Angular. Se han usado tres componentes principales: Header, Body y Footer. El header contiene el logo de la fundación, el body está conformado por un video, un texto explicativo y tres iconos que muestran las características de la aplicación. Uno de ellos lleva a una página hecha en python. Finalmente, el footer contiene la información de la fundación, las redes sociales y un logo.
+La landing se ha realizado con el framework Angular. Se han usado tres componentes principales: Header, Body y Footer. El header contiene el logo de la fundación, el body está conformado por un video, un texto explicativo y tres iconos que muestran las características de la aplicación. Uno de ellos lleva a una página hecha en python. Finalmente, el footer contiene la información de la fundación, las redes sociales y un logo. Los otros dos tienen unos modales donde se muestran las características de la aplicación.
+
+Esta landing se ha creado a partir de movil first y con la metodología BEM.
 
 ## Fuente
 
