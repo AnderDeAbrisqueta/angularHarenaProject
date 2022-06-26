@@ -36,6 +36,10 @@ Por otra parte, esta landing se ha creado a partir de mobile first, resposive y 
 
 Los cores utilizados fueron: #ED5001, #F7F7F7 y 1A1A1A.
 
+## Logo
+
+El logo fue transformado a archivo svg con el programa InkScape. Todos los iconos también son archivos svg.
+
 ## Elementos varios:
 
 Se ha colocado un audio en la parte superior izquierda del body.
