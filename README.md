@@ -7,3 +7,21 @@ Este repositorio muestra la landing page de la app <a href="https://github.com/A
 El mock up fue realizado en figma:
 
 <img width="500px" src="./src/assets/images/mockUpLanding.png"/> 
+
+# Landing page
+
+La landing se ha realizado con el framework Angular. Se han usado tres componentes principales: Header, Body y Footer. El header contiene el logo de la fundación, el body está conformado por un video, un texto explicativo y tres iconos que muestran las características de la aplicación. Uno de ellos lleva a una página hecha en python. Finalmente, el footer contiene la información de la fundación, las redes sociales y un logo.
+
+## Fuente
+
+-SourceSansPro-Regular
+
+## Color
+
+Los cores utilizados fueron: #ED5001, #F7F7F7 y 1A1A1A.
+
+
+
+
+
+
