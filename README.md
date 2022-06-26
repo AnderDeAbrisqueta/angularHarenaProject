@@ -6,4 +6,4 @@ Este repositorio muestra la landing page de la app <a href="https://github.com/A
 
 El mock up fue realizado en figma:
 
-<img src="assets/images/mockUpLandingPage.png"/> 
+<img src="assets/images/mockUpLanding.png"/> 
